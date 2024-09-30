@@ -1,0 +1,3 @@
+/home/panvat/Plocha/CLion/Slalom/cmake-build-debug/CMakeFiles/Slalom.dir
+/home/panvat/Plocha/CLion/Slalom/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/panvat/Plocha/CLion/Slalom/cmake-build-debug/CMakeFiles/rebuild_cache.dir
